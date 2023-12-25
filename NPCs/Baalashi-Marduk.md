@@ -1,0 +1,1 @@
+The third king of Ginnunmezzeron. He stole the knowledge of magic from the gods and delivered it to his people, leading to the [[Liminal Path of Unknown Unkowns]]. His only son is the [[Maizen Prince]].

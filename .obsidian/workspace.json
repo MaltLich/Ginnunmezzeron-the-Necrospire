@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "9df165128919b9e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6258a280ab1b34e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7759a0ef6c4d3fd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes & Scratch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe7ddca2e1443487",
+    "type": "split",
+    "children": [
+      {
+        "id": "13f37249bd9ed3c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f1c67daf26a765b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc20a746821ae40f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "395fc7f5bf9268db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "9c9d53ae54fce482",
+    "type": "split",
+    "children": [
+      {
+        "id": "2391b20af8acb625",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd04a1a2084549bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General Notes & Scratch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dffef3eb5c140f43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General Notes & Scratch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10858f3fc850174e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a41ec7798b461095",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General Notes & Scratch.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7759a0ef6c4d3fd8",
+  "lastOpenFiles": [
+    "README.md.md",
+    "Factions/Liminal Path of Unknown Unkowns.md",
+    "NPCs/Baalashi-Marduk.md",
+    "General Notes & Scratch.md",
+    "Factions/Obsidian Schools.md",
+    "Factions",
+    "NPCs/Maizen Prince.md",
+    "NPCs",
+    "Food For Thought/Gods are high level PCs.md",
+    "Screenshot 2023-12-19 at 4.51.35 AM.png",
+    "Campaigns/Necrospire/Layer 1/Districts/Layer 1.md",
+    "Campaigns/Necrospire/Layer 1/Factions",
+    "Campaigns/Necrospire/Layer 1/NPCs",
+    "Campaigns/Necrospire/Layer 1/Districts",
+    "Campaigns/Necrospire/Layer 1",
+    "Ginnunmezzeron, The Necrospire",
+    "Campaigns",
+    "Food For Thought"
+  ]
+}
