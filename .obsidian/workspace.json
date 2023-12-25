@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "9c9d53ae54fce482",
@@ -129,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7759a0ef6c4d3fd8",
+  "active": "a41ec7798b461095",
   "lastOpenFiles": [
     "Factions/Liminal Path of Unknown Unkowns.md",
     "Factions/Obsidian Schools.md",

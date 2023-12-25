@@ -33,7 +33,7 @@
 - The Necrospire
 - The Black Citadel
 - Abandoned Hope
-## The Ground Itself Solo Play
+## The Ground Itself World-Building Session
 
 ### Setup
 #### Our timeline
@@ -74,3 +74,10 @@ The [[Silent Aria]], summoning the maw of Apollyon and his giant offspring.
 
 ***If there are multiple people who live here, what are they divided on? What are the points of contention that are fought over? or If there are not multiple people, what resources do the plants, animals, or visitors to our place vie for?***
 The true nature of mortal beings and their place in the cosmology of the world
+### Gameplay
+#### First Cycle
+***Sixes -  First: What is the most horrible thing in or about our place?***
+***Fours - First: What is the primary building or natural material of our place?***
+***Twos - First: Name a monument, marker, statue, or other physicalized memory that exists in our place. What does it mark?***
+***Tens - First: There is a great victory that enables the inhabitants of our place to build towards a new future. What is this future they wish for? How will they set to work on it?***
+#### Second Cycle - 3 Millenia Pass...
