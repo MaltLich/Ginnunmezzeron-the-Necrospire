@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes & Scratch.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes & Scratch.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes & Scratch.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes & Scratch.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "7759a0ef6c4d3fd8",
   "lastOpenFiles": [
+    "General Notes & Scratch.md",
     "README.md",
     "README.md.md",
-    "General Notes & Scratch.md",
     "Factions/Liminal Path of Unknown Unkowns.md",
     "NPCs/Baalashi-Marduk.md",
     "Factions/Obsidian Schools.md",
