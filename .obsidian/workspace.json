@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "9c9d53ae54fce482",
@@ -148,13 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a41ec7798b461095",
+  "active": "7759a0ef6c4d3fd8",
   "lastOpenFiles": [
+    "Svartsmuth.md",
+    "Cultures & Races",
+    "General Notes & Scratch.md",
+    "Cultures & Races/Urgits.md",
+    "Cultures & Races/Thurs.md",
     "Factions/Liminal Path of Unknown Unkowns.md",
     "Factions/Obsidian Schools.md",
     "NPCs/Maizen Prince.md",
     "NPCs/Baalashi-Marduk.md",
-    "General Notes & Scratch.md",
     "README.md",
     "README.md.md",
     "Factions",

@@ -77,7 +77,11 @@ The true nature of mortal beings and their place in the cosmology of the world
 ### Gameplay
 #### First Cycle - The Founding
 ***Sixes -  First: What is the most horrible thing in or about our place?***
+The [[Thurs]] and the [[Urgits]]. The thurs, giants who worship the Black Flame, sought out mortal beings for sustenance. The urgits, driven to lunacy by the Capped Moon, perform raids to kidnap intelligent beings for their rituals.
+
 ***Fours - First: What is the primary building or natural material of our place?***
+[[Svartsmuth]], or "black mass". This material naturally occurs in the area and is used to build the city.
+
 ***Twos - First: Name a monument, marker, statue, or other physicalized memory that exists in our place. What does it mark?***
 ***Tens - First: There is a great victory that enables the inhabitants of our place to build towards a new future. What is this future they wish for? How will they set to work on it?***
 #### Second Cycle - 3 Millenia Pass...
