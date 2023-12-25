@@ -49,11 +49,13 @@ The deliverance of magic to mortals.
 A long view - to bring all nations under their sphere of influence
 
 ***Describe the flora and fauna. What is the landscape like? What animals and plants call it home?***
+Not much flora or fauna is around. The city is vast, disorienting, and all-encompassing.
 
 ***Who or what (a person, landmark, society) has been in this place the longest? How did they come to be here?***
+[[The Black Cube]], a large mysterious object that has cultivated various religious groups around it's supposed divinity.
 
 ***What stories are told in or about this place? Does it have legends or myths? Does it have religion?***
-Worship of the pursuit of Truth is the preeminent religion. This path was revealed by [[Baalashi-Marduk]] and carried on by his son, the Maizen Prince.
+Worship of the pursuit of Truth is the preeminent religion. This path was revealed by [[Baalashi-Marduk]] and carried on by his son, the [[Maizen Prince]].
 
 ***What is this place named or called? Who named it, and for what reason?***
 Ginnunmezzeron, meaning City of Lustre. The Maizen Prince, in his sevenfold wisdom, named it so.

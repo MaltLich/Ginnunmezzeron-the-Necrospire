@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "General Notes & Scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "General Notes & Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "General Notes & Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "General Notes & Scratch.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "7759a0ef6c4d3fd8",
   "lastOpenFiles": [
+    "Factions/Liminal Path of Unknown Unkowns.md",
+    "Factions/Obsidian Schools.md",
+    "NPCs/Maizen Prince.md",
+    "NPCs/Baalashi-Marduk.md",
     "General Notes & Scratch.md",
     "README.md",
     "README.md.md",
-    "Factions/Liminal Path of Unknown Unkowns.md",
-    "NPCs/Baalashi-Marduk.md",
-    "Factions/Obsidian Schools.md",
     "Factions",
-    "NPCs/Maizen Prince.md",
     "NPCs",
     "Food For Thought/Gods are high level PCs.md",
     "Screenshot 2023-12-19 at 4.51.35 AM.png",
