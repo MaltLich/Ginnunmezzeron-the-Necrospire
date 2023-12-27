@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,16 +148,20 @@
   },
   "active": "7759a0ef6c4d3fd8",
   "lastOpenFiles": [
-    "Svartsmuth.md",
-    "Cultures & Races",
+    "NPCs/Baalashi-Marduk.md",
+    "NPCs/Maizen Prince.md",
     "General Notes & Scratch.md",
+    "README.md",
+    "Items",
+    "Items/Svartsmuth.md",
+    "Events/Silent Aria.md",
+    "Events.md",
+    "Events",
+    "Cultures & Races",
     "Cultures & Races/Urgits.md",
     "Cultures & Races/Thurs.md",
     "Factions/Liminal Path of Unknown Unkowns.md",
     "Factions/Obsidian Schools.md",
-    "NPCs/Maizen Prince.md",
-    "NPCs/Baalashi-Marduk.md",
-    "README.md",
     "README.md.md",
     "Factions",
     "NPCs",
@@ -169,8 +172,6 @@
     "Campaigns/Necrospire/Layer 1/NPCs",
     "Campaigns/Necrospire/Layer 1/Districts",
     "Campaigns/Necrospire/Layer 1",
-    "Ginnunmezzeron, The Necrospire",
-    "Campaigns",
-    "Food For Thought"
+    "Ginnunmezzeron, The Necrospire"
   ]
 }

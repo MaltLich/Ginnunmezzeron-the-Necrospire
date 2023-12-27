@@ -23,7 +23,7 @@
 ### Average Knowledge
 - no one, living or undead, has ever reached the nadir of the necropolis
 - it is unclear who built the city, though many have theories
-- clearly served the purpose of worshiping some sort of pantheon of ancient cthonic beings
+- clearly served the purpose of worshiping some sort of pantheon of ancient chthonic beings
 - layers, additions, and expansions have steadily been added
 - the Black City is pointed downward towards a large hellgate
 - this causes the city to have unexplainable dimensions at times, defying time and space
