@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6258a280ab1b34e4",
+        "id": "26aa060e8b3a6e86",
         "type": "tabs",
         "children": [
           {
-            "id": "7759a0ef6c4d3fd8",
+            "id": "4a44b9495ef836f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes & Scratch.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 200
   },
   "right": {
     "id": "9c9d53ae54fce482",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes & Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes & Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "General Notes & Scratch.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -134,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7759a0ef6c4d3fd8",
+  "active": "4a44b9495ef836f8",
   "lastOpenFiles": [
-    "NPCs/Baalashi-Marduk.md",
-    "NPCs/Maizen Prince.md",
     "General Notes & Scratch.md",
+    "NPCs/Maizen Prince.md",
+    "NPCs/Baalashi-Marduk.md",
     "README.md",
     "Items",
     "Items/Svartsmuth.md",
